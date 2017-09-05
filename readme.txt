@@ -1,6 +1,6 @@
-1. 目前用于XDLib/StlSourcebakClient
+1. 鐩墠鐢ㄤ簬XDLib/StlSourcebakClient
 
-使用时注意事项，否则会出现意想不到的build/link错误
-    a. include时其位置位于其它include目录的最前面
-    b. lib时其位置位于其它lib位置的最后面
-    c. 清空项目后重新build
+浣跨敤鏃舵敞鎰忎簨椤癸紝鍚﹀垯浼氬嚭鐜版剰鎯充笉鍒扮殑build/link閿欒
+    a. include鏃跺叾浣嶇疆浣嶄簬鍏跺畠include鐩綍鐨勬渶鍓嶉潰
+    b. lib鏃跺叾浣嶇疆浣嶄簬鍏跺畠lib浣嶇疆鐨勬渶鍚庨潰
+    c. 娓呯┖椤圭洰鍚庨噸鏂癰uild
